@@ -4,7 +4,7 @@ Homebrew tap for the [studio kit](https://github.com/YuLiangGoh/studio-toolkit) 
 anime paintings and looping videos on Apple Silicon Macs.
 
 ```sh
-brew install yuliangoh/studio/studio-kit
+brew install yulianggoh/studio/studio-kit
 sk          # first run: installs the kit into ~/studio/toolkit and checks this Mac
 ```
 
