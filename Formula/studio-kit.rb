@@ -8,8 +8,8 @@ class StudioKit < Formula
   desc "Local songs, 3D layouts, anime paintings and looping videos on Apple Silicon"
   homepage "https://github.com/YuLiangGoh/studio-toolkit"
   url "https://github.com/YuLiangGoh/studio-toolkit.git",
-      tag:      "v0.6.1",
-      revision: "bfba04134c9bb8add56b7a2cdab5c90b31243885"
+      tag:      "v0.7.0",
+      revision: "58a0b10afd9697c5e205a7a417bb36ebfd5f0adc"
   license "MIT"
   head "https://github.com/YuLiangGoh/studio-toolkit.git", branch: "main"
 
